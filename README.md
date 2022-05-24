@@ -10,6 +10,6 @@ flutter drive \
   --target=integration_test/app_test.dart
 ```
 
-### Want to know what is integration test
+### Want to know what is integration testing ?
 
 [Click here](https://martinfowler.com/bliki/IntegrationTest.html)
